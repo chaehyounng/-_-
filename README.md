@@ -2,7 +2,7 @@
   
 **통계학과 2111852 김채형, 2115028 임채현**
 
-## EDA(Code/EDA)
+## EDA(https://github.com/chaehyounng/BarrierFreeMobilityDataAnalysis/blob/main/Code/EDA)
 
 ## Preprocessing(Code/Preprocessing)
 
