@@ -4,8 +4,8 @@
 
 ## [EDA](https://github.com/chaehyounng/BarrierFreeMoblityDataAnalysis/blob/main/Code/EDA)
 
-## Preprocessing(Code/Preprocessing)
+## [Preprocessing](https://github.com/chaehyounng/BarrierFreeMoblityDataAnalysis/blob/main/Code/Preprocessing)
 
-## Analysis(Code/Analysis)
+## [Analysis](https://github.com/chaehyounng/BarrierFreeMoblityDataAnalysis/blob/main/Code/Analysis)
 
 ## PPT()
