@@ -2,10 +2,10 @@
   
 **통계학과 2111852 김채형, 2115028 임채현**
 
-## Preprocessing
+## EDA()
 
-## EDA 
+## Preprocessing()
 
-## Analysis
+## Analysis()
 
-## PPT
+## PPT()
